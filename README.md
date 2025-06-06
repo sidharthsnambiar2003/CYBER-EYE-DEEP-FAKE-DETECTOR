@@ -53,7 +53,7 @@ CyberEye/
 ### 1. 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/cybereye.git
+git clone https://github.com/sidharthsnambiar2003/CYBER-EYE-DEEP-FAKE-DETECTOR.git
 cd cybereye
 ```
 
